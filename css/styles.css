@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.row {
+  grid-gap: 10px;
+}
+
+.row > div {
+    border: 5px; /* Remove the border */
+    margin-bottom: 2.5px; 
+    margin-right: 2.5px; 
+    background-color: grey;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+
+.box1,
+.box2,
+.box3 {
+    background-color:red;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
