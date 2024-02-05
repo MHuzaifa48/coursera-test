@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment Solution Module 2</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <h1> Our menu </h1>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4 col-sm-6 ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium
+                suscipit neque animi aperiam, deserunt dignissimos porro consequuntur recusandae placeat ipsam! Tenetur
+                quia nostrum illum ipsa, sequi harum quidem esse optio!
+                <div class="box1"> Chicken</div>  
+            </div>
+            <div class="col-md-4 col-sm-6">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium
+                suscipit neque animi aperiam, deserunt dignissimos porro consequuntur recusandae placeat ipsam! Tenetur
+                quia nostrum illum ipsa, sequi harum quidem esse optio!<div class="box2"> Beef</div> </div>
+            <div class="col-md-4 col-sm-6"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem,
+                numquam. Voluptate, ipsam earum. Eum consequatur vitae assumenda quos ratione ducimus harum hic earum,
+                in voluptatum saepe nisi consequuntur maxime excepturi!<div class="box3"> Sushi</div></div>
+        </div>
+
+    </div>
+</body>
+
+</html>
